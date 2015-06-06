@@ -1,0 +1,79 @@
+[
+  {
+    "number":21,
+    "name":"守田 達弥",
+    "position":"GK",
+    "cx":450,
+    "cy":500
+  },
+  {
+    "number":4,
+    "name":"舞行龍 ジェームズ",
+    "position":"DF",
+    "cx":200,
+    "cy":400
+  },
+  {
+    "number":3,
+    "name":"大井 健太郎",
+    "position":"DF",
+    "cx":450,
+    "cy":400
+  },
+  {
+    "number":5,
+    "name":"前野 貴徳",
+    "position":"DF",
+    "cx":700,
+    "cy":400
+  },
+  {
+    "number":13,
+    "name":"加藤 大",
+    "position":"MF",
+    "cx":600,
+    "cy":300
+  },
+  {
+    "number":25,
+    "name":"小泉 慶",
+    "position":"MF",
+    "cx":300,
+    "cy":300
+  },
+  {
+    "number":24,
+    "name":"川口 尚紀",
+    "position":"MF",
+    "cx":800,
+    "cy":200
+  },
+  {
+    "number":7,
+    "name":"コルテース",
+    "position":"MF",
+    "cx":100,
+    "cy":200
+  },
+  {
+    "number":34,
+    "name":"平松 宗",
+    "position":"FW",
+    "cx":450,
+    "cy":200
+  },
+  {
+    "number":11,
+    "name":"指宿 洋史",
+    "position":"FW",
+    "cx":600,
+    "cy":100
+  },
+  {
+    "number":14,
+    "name":"田中 達也",
+    "position":"FW",
+    "cx":300,
+    "cy":100
+  }
+]
